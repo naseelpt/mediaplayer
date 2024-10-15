@@ -1,1 +1,1 @@
-export const serverUrl = "https://mediaplayerbackend-kq2x.onrender.com/"
+export const serverUrl = "https://mediaplayerbackend-kq2x.onrender.com"
